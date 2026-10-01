@@ -2,7 +2,7 @@
 
 # Hi there, I'm Karthik Beesa 👋 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+5%2B+Years+Experience;SQL+Reporting+%26+BI+Dashboard+Expert;KPI+Automation+%26+Pipeline+Architect;Turning+Raw+Data+into+Strategic+Insights" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+6%2B+Years+Experience;SQL+Reporting+%26+BI+Dashboard+Expert;KPI+Automation+%26+Pipeline+Architect;Turning+Raw+Data+into+Strategic+Insights" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-k1899)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikvk1899@gmail.com)
