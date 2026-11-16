@@ -30,6 +30,14 @@ Full Stack Developer with **7+ years of experience** building enterprise web app
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ---
+## 🏗️ Featured Systems Projects
+- **[Converge Desk](https://github.com/Karthikvk1899/converge-desk)** — Collaborative engineering notebook: Yjs CRDT editing, durable acknowledgments, IndexedDB retry queue, PostgreSQL search, two-replica WebSocket sync, and Redis notification recovery.
+- **[Signal Loom](https://github.com/Karthikvk1899/signal-loom)** — Reviewed feature releases with deterministic cohorts, signed offline snapshots, fenced activation, rollback, and a React operator console.
+- **[Relay Foundry](https://github.com/Karthikvk1899/relay-foundry)** — Durable multi-tenant webhook delivery with Kafka outbox, signed retries, and a React operations console.
+- **[Saga Harbor](https://github.com/Karthikvk1899/saga-harbor)** — Kafka saga orchestration with atomic Redis transitions, leased outbox, and a React operations console.
+- **[Quota Forge](https://github.com/Karthikvk1899/quota-forge)** — Distributed sliding-window admission control built with Java 21 / Spring Boot, Redis atomic outbox, Kafka audit pipeline, and a React operations console.
+- **[Ledger Bridge](https://github.com/Karthikvk1899/ledger-bridge)** — Kafka event reconciliation with atomic Redis state, FastAPI, and a React investigation console.
+---
 
 ## 💻 Developer Tooling
 
