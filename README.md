@@ -31,17 +31,21 @@ Full Stack Developer with **7+ years of experience** building enterprise web app
 
 ---
 ## 🏗️ Featured Systems Projects
+
+Working reference systems with local setup, automated checks, and documented failure modes. CI results cover the tested scenarios; they are not production guarantees.
+
 - **[Converge Desk](https://github.com/Karthikvk1899/converge-desk)** — Collaborative engineering notebook: Yjs CRDT editing, durable acknowledgments, IndexedDB retry queue, PostgreSQL search, two-replica WebSocket sync, and Redis notification recovery.
 - **[Signal Loom](https://github.com/Karthikvk1899/signal-loom)** — Reviewed feature releases with deterministic cohorts, signed offline snapshots, fenced activation, rollback, and a React operator console.
-- **[Relay Foundry](https://github.com/Karthikvk1899/relay-foundry)** — Durable multi-tenant webhook delivery with Kafka outbox, signed retries, and a React operations console.
+- **[Relay Foundry](https://github.com/Karthikvk1899/relay-foundry)** — Durable multi-tenant webhook delivery with a PostgreSQL transactional outbox, Kafka fanout, signed retries, and a React operations console.
 - **[Saga Harbor](https://github.com/Karthikvk1899/saga-harbor)** — Kafka saga orchestration with atomic Redis transitions, leased outbox, and a React operations console.
 - **[Quota Forge](https://github.com/Karthikvk1899/quota-forge)** — Distributed sliding-window admission control built with Java 21 / Spring Boot, Redis atomic outbox, Kafka audit pipeline, and a React operations console.
 - **[Ledger Bridge](https://github.com/Karthikvk1899/ledger-bridge)** — Kafka event reconciliation with atomic Redis state, FastAPI, and a React investigation console.
+
 ---
 
 ## 💻 Developer Tooling
 
-**[guard-ai](https://github.com/Karthikvk1899/guard-ai)** — Security linter for Python, JavaScript, and TypeScript code. Detects suspicious package names, secret placeholders, and truncated AI-generated code, with CI and pre-commit support.
+**[guard-ai](https://github.com/Karthikvk1899/guard-ai)** — Heuristic source linter for Python, JavaScript, and TypeScript, with redacted findings, optional public package-registry checks, CI, and pre-commit support. Findings require review; the tool does not establish that code is AI-generated or safe.
 
 ---
 
